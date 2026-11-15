@@ -9,12 +9,12 @@ My work and interests span **numerical methods for partial differential equation
 ## Publications
 
 - **[Unsupervised multi-modal variational autoencoder for anomaly detection in coronary angiography](https://doi.org/10.1080/13645706.2026.2705585)** — *Minimally Invasive Therapy & Allied Technologies* (2026). **First author.** Unsupervised anomaly detection using video and pose representations of clinical procedures. [Research code](https://github.com/emanuelefrassini/unsupervised_anomaly_detection).
-- **[Automated phase recognition in the cardiac catheterization laboratory with deep learning](https://doi.org/10.1186/s42490-026-00122-x)** — *BMC Biomedical Engineering* (2026). **Joint first author** with Teddy S. Vijfvinkel (equal contribution noted in the publication). Deep-learning classification of coronary angiography workflow phases from multimodal clinical and procedural data.
 - **[Deep learning methods for clinical workflow phase-based prediction of procedure duration: a benchmark study](https://doi.org/10.1080/24699322.2025.2466426)** — *Computer Assisted Surgery* (2025). **First author.** Benchmarking deep-learning methods for estimating the remaining duration of coronary angiography procedures. [Research code](https://github.com/emanuelefrassini/prediction_procedure_duration).
+- **[Automated phase recognition in the cardiac catheterization laboratory with deep learning](https://doi.org/10.1186/s42490-026-00122-x)** — *BMC Biomedical Engineering* (2026). **Joint first author**. Deep-learning classification of coronary angiography workflow phases from multimodal clinical and procedural data.
 - **[Benchmarking 2D human pose estimators and trackers for workflow analysis in the cardiac catheterization laboratory](https://doi.org/10.1016/j.medengphy.2025.104289)** — *Medical Engineering & Physics* (2025). **Second author.** Evaluation of markerless human pose estimation and tracking in cardiac catheterization laboratory video.
 - **[2D human pose tracking in the cardiac catheterisation laboratory with BYTE](https://doi.org/10.1016/j.medengphy.2024.104270)** — *Medical Engineering & Physics* (2025). **Third author.** Human pose tracking for procedural workflow analysis using geometric pose information.
 
-*Research code is linked where publicly available. The automated checks in those repositories do not by themselves reproduce the publications' clinical results.*
+*Research code is linked where publicly available.*
 
 ## Selected scientific-computing projects
 
