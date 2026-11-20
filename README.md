@@ -21,6 +21,7 @@ My work and interests span **numerical methods for partial differential equation
 | Project | What it demonstrates |
 | --- | --- |
 | [Tidal Ensemble Kalman Filter](https://github.com/emanuelefrassini/tidal-ensemble-kalman-filter) | Shallow-water modelling, stochastic state estimation, and data assimilation with real water-level observations. |
+| [Immersed B-spline FEM](https://github.com/emanuelefrassini/immersed-bspline-fem) | Immersed finite elements, B-spline discretization, Nitsche boundary enforcement, convergence analysis, and cut-cell conditioning. |
 | [Multigrid Helmholtz Solvers](https://github.com/emanuelefrassini/multigrid-helmholtz-solvers) | Sparse finite differences, Gauss–Seidel iterations, multigrid V/W-cycles, and spectral analysis. |
 | [Overlapping Schwarz Preconditioners](https://github.com/emanuelefrassini/overlapping-schwarz-preconditioners) | One- and two-level domain decomposition, coarse-grid correction, and preconditioned conjugate gradients. |
 | [MPI Poisson FEM](https://github.com/emanuelefrassini/mpi-poisson-fem) | Distributed C/MPI computing, finite-element-equivalent operators, and numerical/scaling tests. |
@@ -32,7 +33,7 @@ My work and interests span **numerical methods for partial differential equation
 
 - **Scientific computing:** Python, NumPy, SciPy, Matplotlib, MATLAB/GNU Octave.
 - **Parallel and research software:** C/C++, CUDA, MPI, Git, automated tests, GitHub Actions.
-- **Numerical methods:** finite differences, finite elements, iterative linear solvers, multigrid, domain decomposition, ensemble Kalman filtering.
+- **Numerical methods:** finite differences, finite elements, B-splines, immersed discretizations, Nitsche's method, iterative linear solvers, multigrid, domain decomposition, ensemble Kalman filtering.
 - **Machine learning:** temporal deep learning, representation learning, and clinical workflow modelling.
 
 I use these repositories to document numerical experiments, research implementations, and the process of turning academic coursework into independently testable software.
