@@ -2,7 +2,7 @@
 
 **Applied Mathematics · Scientific Computing · Numerical Methods · Machine Learning for Healthcare**
 
-I'm an applied mathematician with an **MSc in Applied Mathematics from TU Delft** and a **BSc in Mathematical Engineering from Politecnico di Milano**.
+I am an applied mathematician with an **MSc in Applied Mathematics from TU Delft** and a **BSc in Mathematical Engineering from Politecnico di Milano**.
 
 My work and interests span **numerical methods for partial differential equations, scientific computing, data assimilation, high-performance computing, and machine learning for clinical workflows**. I focus on making computational work understandable and reproducible through numerical verification, well-documented experiments, and tested research software.
 
